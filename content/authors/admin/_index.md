@@ -32,8 +32,8 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: linkedin
-  icon_pack: fas
-  link: '#contact'  
+  icon_pack: fab
+  link: https://www.linkedin.com/in/kai-yeaton-371752176/  
 
   
 # Link to a PDF of your resume/CV from the About widget.
