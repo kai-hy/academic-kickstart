@@ -16,4 +16,4 @@ projects: []
 For my father's birthday, 
 
 
-![carpentry]("/img/ricky-kharawala-4dVDBMAho8c-unsplash.jpg")
+![carpentry](/img/ricky-kharawala-4dVDBMAho8c-unsplash.jpg)
