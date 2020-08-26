@@ -16,4 +16,4 @@ projects: []
 For my father's birthday, 
 
 
-![Photo by Ricky Kharawala on Unsplash](img/ricky-kharawala-4dVDBMAho8c-unsplash.jpg)
+![Photo by Ricky Kharawala on Unsplash](ricky-kharawala-4dVDBMAho8c-unsplash.jpg)
