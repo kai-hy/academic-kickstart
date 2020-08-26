@@ -2,7 +2,7 @@
 title: "First Post"
 author: Kai Yeaton
 date: '2020-08-25'
-summary: 'This is my first personal post!'
+summary: 'Secret Project'
 authors: ["Kai Yeaton"]
 featured: no
 image:
@@ -13,4 +13,7 @@ projects: []
 ---
 
 
-My name is Kai this is a test. 
+For my father's birthday, 
+
+
+![carpentry](Dragster.jpg)
