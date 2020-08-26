@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplishments"
+title = "Courses"
 subtitle = ""
 
 # Date format
@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   organization = "WPI"
   title = "Heat Transfer"
   url = ""
-  date_start = "2021"
+  date_start = "2021-08-04"
   date_end = ""
   description = ""
 
